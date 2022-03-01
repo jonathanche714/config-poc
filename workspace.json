@@ -1,0 +1,9 @@
+{
+  "version": 2,
+  "projects": {
+    "cms": "apps/cms",
+    "cms-e2e": "apps/cms-e2e",
+    "configuration-page": "libs/configuration-page",
+    "ui": "libs/ui"
+  }
+}
